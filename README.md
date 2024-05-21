@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(I)[https://www.jonshaffer.dev) run [Hyperfluid Solutions](https://www.hyperfluidsolutions.com) and [Systmms](https://www.systmms.dev) in Pittsburgh, PA, USA.
+[I](https://www.jonshaffer.dev) run [Hyperfluid Solutions](https://www.hyperfluidsolutions.com) and [Systmms](https://www.systmms.dev) in Pittsburgh, PA, USA.
