@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I run [Hyperfluid Solutions](https://www.hyperfluidsolutions.com) and [Systmms](https://www.systmms.dev) from Pittsburgh, PA, USA.
 
-I help healthcare companies deliver safe, reliable software and build experiences users enjoy.
+I help healthcare companies deliver safe, reliable software and build experiences users enjoy. I also like to help build experiences that engineers enjoy.
