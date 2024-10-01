@@ -14,3 +14,13 @@ metadata:
 spec:
   owner: jonshaffer
   domain: js
+---
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: js-data
+spec:
+  type: url
+  targets:
+    - https://github.com/jonshaffer/blog/blob/main/catalog-info.yaml
+    - https://github.com/jonshaffer/pkm/blob/main/catalog-info.yaml
