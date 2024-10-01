@@ -24,3 +24,4 @@ spec:
   targets:
     - https://github.com/jonshaffer/blog/blob/main/catalog-info.yaml
     - https://github.com/jonshaffer/pkm/blob/main/catalog-info.yaml
+    - https://github.com/jonshaffer/resume/blob/main/catalog-info.yaml
