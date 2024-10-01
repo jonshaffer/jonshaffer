@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: js
+  description: Everything under JS
+spec:
+  owner: jonshaffer
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: personal
+  description: The personal projects of JS
+spec:
+  owner: jonshaffer
+  domain: js
